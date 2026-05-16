@@ -6,11 +6,11 @@ body {
 }
 
 a {
-  color: #770737;
+  color: #0f5694;
 }
 
 a:visited {
-  color: #770737;
+  color: #0f5694;
 }
 
 /* Gallery container */
@@ -71,7 +71,7 @@ a:visited {
 
 .announcement p {
   margin-bottom: 1rem;
-  color: #AA336A;
+  color: #0f5694;
   font-size: 18px;
   font-weight: 500;
 }
@@ -85,7 +85,7 @@ a:visited {
 }
 	
 .announcement form input[type="submit"] {
-  background-color: #AA336A;
+  background-color: #0f5694;
   color: #fff;
   border: none;
   border-radius: 6px;
@@ -111,7 +111,7 @@ a:visited {
 		font-family: Georgia, serif;
         border: 2px solid #888;
         border-radius: 8px;
-		background-image: url("rose_background.png");
+		background-image: url("whitebackground.jpg");
 		background-opacity: 0.8;
 		background-repeat: no-repeat;
 		background-position: center center;
@@ -174,7 +174,7 @@ a:visited {
 		margin: 1.2em auto;
 		width: 280px;
 		padding: 2px;
-		background-color: #AA336A;
+		background-color: #0f5694;
 		opacity: 0.6;
 		position: absolute;
 		bottom: 0;
@@ -193,7 +193,7 @@ a:visited {
 		text-shadow: 1px 1px 2px black;
         font-size: 2.5em;
         font-weight: bold;
-		color: #AA336A;
+		color: #0f5694;
 		width: 300px;
 		padding: 8px;
         }
@@ -207,7 +207,7 @@ a:visited {
         font-size: 1.9em;
         font-weight: bold;
 		color: white;
-		background-color: #AA336A;
+		background-color: #0f5694;
 		width: 300px;
 		padding: 8px;
 		border: 0.5px solid black;
@@ -220,7 +220,7 @@ a:visited {
         font-size: 1.6em;
         font-weight: bold;
 		color: white;
-		background-color: #AA336A;
+		background-color: #0f5694;
 		width: 300px;
 		padding: 15px;
 		border: 0.5px solid black;
@@ -233,7 +233,7 @@ a:visited {
 		text-shadow: 1px 1px 1px black;
 		font-size: 1.2em;
 		color: white;
-		background-color: #AA336A;
+		background-color: #0f5694;
 		width: 300px;
 		padding: 8px;
 		border: 0.5px solid black;
@@ -261,7 +261,7 @@ a:visited {
         }
 
     th {
-        background: #AA336A;
+        background: #0f5694;
         }
 
 	.left {
@@ -278,7 +278,7 @@ a:visited {
 	.section-title {
         text-align: center;
         font-weight: bold;
-        background: #AA336A;
+        background: #0f5694;
         font-size: 1.2em;
         }
 	
@@ -294,7 +294,7 @@ a:visited {
         }
 
 	.missionary {
-		background: #AA336A;
+		background: #0f5694;
 		color: white;
 		}
 
