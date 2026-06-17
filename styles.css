@@ -81,9 +81,16 @@ a:visited {
   margin: auto;
   width: 75%;
   height: auto;
-  
+  transition: transform 0.3s ease, z-index 0.3s ease;
 }
-	
+
+.announcement img:focus {
+	outline: none;
+	transform: scale(2.5);
+	position: relative;
+	z-index: 999;
+}
+
 .announcement form input[type="submit"] {
   background-color: #0f5694;
   color: #fff;
