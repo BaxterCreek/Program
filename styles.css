@@ -86,7 +86,7 @@ a:visited {
 
 .announcement img:focus {
 	outline: none;
-	transform: scale(2.5);
+	transform: scale(2);
 	position: relative;
 	z-index: 999;
 }
