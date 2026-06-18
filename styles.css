@@ -335,7 +335,7 @@ a:visited {
 		width: 80px;
 		height: auto;
 		padding: 10px;
-		filter: drop-shadow(0 0 0.75rem white);
+		filter: drop-shadow(0.5rem 0.5rem white);
 	}
 
 /* Responsive design */
