@@ -216,7 +216,8 @@ a:visited {
 		color: #FFF;
 		/* background-color: #22311d; */
 		background-image: url(usa_flag.png);
-		background-opacity: 0.25;
+		background-color: rgba(255, 255, 255, 0.4);
+    	background-blend-mode: lighten;
 		background-repeat: no-repeat;
 		background-position: top center;
 		background-size: cover;
@@ -235,7 +236,8 @@ a:visited {
 		color: #FFF;
 		/* background-color: #22311d; */
 		background-image: url(usa_flag.png);
-		background-opacity: 0.25;
+		background-color: rgba(255, 255, 255, 0.4);
+    	background-blend-mode: lighten;
 		background-repeat: no-repeat;
 		background-position: top center;
 		background-size: cover;
