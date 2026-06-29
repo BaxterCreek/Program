@@ -213,10 +213,10 @@ a:visited {
 		text-shadow: 1px 1px 2px black;
         font-size: 1.9em;
         font-weight: bold;
-		color: #FFFFF0;
+		color: #FFF;
 		/* background-color: #22311d; */
 		background-image: url(usa_flag.png);
-		background-opacity: 0.5;
+		background-opacity: 0.25;
 		background-repeat: no-repeat;
 		background-position: top center;
 		background-size: cover;
@@ -232,10 +232,10 @@ a:visited {
 		text-shadow: 1px 1px 2px black;
         font-size: 1.6em;
         font-weight: bold;
-		color: #FFFFF0;
+		color: #FFF;
 		/* background-color: #22311d; */
 		background-image: url(usa_flag.png);
-		background-opacity: 0.5;
+		background-opacity: 0.25;
 		background-repeat: no-repeat;
 		background-position: top center;
 		background-size: cover;
