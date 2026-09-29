@@ -214,7 +214,7 @@ a:visited {
         font-size: 1.9em;
         font-weight: bold;
 		color: #FFF;
-		background-color: #22311d;
+		background-color: #2E5984;
 		width: 300px;
 		padding: 8px;
 		border: 0.5px solid black;
@@ -228,7 +228,7 @@ a:visited {
         font-size: 1.6em;
         font-weight: bold;
 		color: #FFF;
-		background-color: #22311d;
+		background-color: #2E5984;
 		width: 300px;
 		padding: 15px;
 		border: 0.5px solid black;
@@ -241,7 +241,7 @@ a:visited {
 		text-shadow: 1px 1px 1px black;
 		font-size: 1.2em;
 		color: #FFFFF0;
-		background-color: #22311d;
+		background-color: #2E5984;
 		width: 300px;
 		padding: 8px;
 		border: 0.5px solid black;
@@ -269,7 +269,7 @@ a:visited {
         }
 
     th {
-        background: #22311d;
+        background: #2E5984;
         }
 
 	.left {
@@ -286,7 +286,7 @@ a:visited {
 	.section-title {
         text-align: center;
         font-weight: bold;
-        background: #22311d;
+        background: #2E5984;
         font-size: 1.2em;
         }
 	
@@ -302,7 +302,7 @@ a:visited {
         }
 
 	.missionary {
-		background: #0A2472;
+		background: #2E5984;
 		color: white;
 		}
 
